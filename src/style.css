@@ -1,0 +1,14 @@
+.carousel-image-one {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px
+}
+
+.carousel-image-two {
+    object-fit: cover;
+    height: 400px
+}
+
+.carousel-title {
+    font-family: 'Pacifico', cursive;
+}
