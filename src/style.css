@@ -32,6 +32,5 @@
 
 .card-image-position {
     object-fit: cover;
-    /* object-position: 0 80%; */
     height: 200px;
 }
