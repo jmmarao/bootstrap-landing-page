@@ -13,6 +13,15 @@
     font-family: 'Pacifico', cursive;
 }
 
-.red-text {
+.darkred-text {
     color: darkred;
+}
+
+.darkred-button {
+    background-color: darkred;
+    color: white;
+}
+
+.darkred-border {
+    border-color: darkred;
 }
