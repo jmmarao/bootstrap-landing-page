@@ -9,6 +9,10 @@
     height: 400px
 }
 
-.carousel-title {
+.pacific-title {
     font-family: 'Pacifico', cursive;
+}
+
+.red-text {
+    color: darkred;
 }
