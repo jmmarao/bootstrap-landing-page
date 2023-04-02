@@ -1,3 +1,7 @@
+.card-width {
+    max-width: 18rem;
+}
+
 .carousel-image-one {
     object-fit: cover;
     object-position: 0 80%;
@@ -24,4 +28,10 @@
 
 .darkred-border {
     border-color: darkred;
+}
+
+.card-image-position {
+    object-fit: cover;
+    /* object-position: 0 80%; */
+    height: 200px;
 }
